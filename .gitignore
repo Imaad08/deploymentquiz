@@ -17,3 +17,4 @@ instance/volumes/sqlite.db
 instance/volumes/sqlite-backup.db
 instance/volumes/sqlite-backup*
 migrations/
+myenv
